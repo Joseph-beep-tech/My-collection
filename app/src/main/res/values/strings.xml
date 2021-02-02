@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCollection</string>
+    <item name="passwordLoginButton" type="id" />
+    <item name="registerTextView" type="id" />
+</resources>
